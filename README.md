@@ -1,2 +1,0 @@
-# gitLearning
-practicing Git
